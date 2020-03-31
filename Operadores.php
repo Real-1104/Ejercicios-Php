@@ -12,4 +12,6 @@ echo 'Es verdad';
 else{
     echo 'Es mentira';
 }
+$a = $a+1;
+echo $a;
 ?>
