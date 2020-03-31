@@ -4,7 +4,7 @@ $b = 20;
 
 $c = $a + $b;
 
-echo $c;
+//echo $c;
 
 if($a>$b){
 echo 'Es verdad';
